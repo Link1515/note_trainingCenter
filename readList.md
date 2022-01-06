@@ -1,4 +1,5 @@
 # Document Reading List
+
 ## primary
 
 - [ ] express
@@ -6,6 +7,6 @@
 - [ ] cors
 - [ ] jsonwebtoken
 
-## secondary 
+## secondary
 
 - [ ] socket.io
