@@ -10,3 +10,10 @@
 ## secondary
 
 - [ ] socket.io
+
+## others
+
+- [ ] tailwindcss
+- [ ] postcss
+- [ ] PurgeCSS 
+- [ ] webpack
