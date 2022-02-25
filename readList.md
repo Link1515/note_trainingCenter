@@ -17,3 +17,11 @@
 - [ ] postcss
 - [ ] PurgeCSS 
 - [ ] webpack
+- [ ] github action (.yml)
+- [ ] react.js
+- [ ] yarn
+- [ ] vite
+- [ ] Jest (testing)
+- [ ] TypeScript
+- [ ] PWA
+- [ ] SSR
